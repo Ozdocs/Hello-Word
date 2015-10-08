@@ -1,3 +1,3 @@
 # Hello-Word
 My first repository on GitHub.
-I love : coffee: :pizaa:Mango,
+I love : coffee: :pizaa:Mango:Oraing,
